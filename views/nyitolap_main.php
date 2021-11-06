@@ -1,0 +1,5 @@
+<h2>Kecskeméti Tehetséggondozó Gimnázium</h2>
+<p><img class="jobbra" src="img/felveteli.jpg" width="300">A Kecskeméti Tehetséggondozó Gimnáziumot 1890-ben alapították. Az évek során jelentősen változtak a képzések összetétele és az oktatás szerkezete, alkalmazkodva az adott kor követelményeihez.</p>
+<p>Jelenleg intézményünk nem csak Kecskemét, de Bács-Kiskun megye szerte is jó hírű, elismert intézmény. Tanulólétszámunk 554 fő, a diákok összesen 19 osztályban végzik tamulmányaikat. Tantestületünk 45 fős, melyben mindannyian főállású pedagógusok. Csapatunkban néhányan neves szakmai elismerésekkel büszkélkedhetnek</p>
+<p>Fő célkitűzésünk, hogy a sikeres érettségit követően diákjaink a lehető legnagyobb létszámban felsőoktatási intézményekben tanuljanak tovább, mely arány 99 % volt az elmúlt évek során.</p>
+<p>Tehetséggondozásra kiemelt figyelmet fordítunk. Elsősorban reál tantárgyak kategóriában (matematika, fizika) évente indítunk versenyzőket országos versenyeken, melyeken rendszerint kimagasló eredménnyel teljesítenek.</p>
